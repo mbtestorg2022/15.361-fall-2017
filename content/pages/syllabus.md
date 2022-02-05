@@ -45,11 +45,48 @@ This course is designed to help MIT Sloan students bridge the gap between strate
 Grading and Requirements
 ------------------------
 
-| Activities | Percentages |
-| --- | --- |
-| Class attendance and participation | 25% |
-| Pre-class surveys | 25% |
-| Two class preparation memos (team) | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pre-class surveys
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two class preparation memos (team)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 This class is offered pass/fail. To pass the course, student must complete the following requirements:
 
@@ -70,17 +107,165 @@ More details about these requirements can be found in the Assignments section.
 Calendar and Key Dates
 ----------------------
 
-| Ses# | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | What Strategy Execution Is (and Isn't) | Strategic Priorities memo due |
-| 2 | Strategy for Execution | &nbsp; |
-| 3 | Goals 2.0 | &nbsp; |
-| 4 | Simple Rules | Canadian Compression Corporation memo due |
-| 5 | Simple Rules in Action | &nbsp; |
-| 6 | Execution Culture | Henkel memo due |
-| 7 | Building an Execution Culture | &nbsp; |
-| 8 | The Execution Loop | &nbsp; |
-| 9 | The Execution Loop (cont.) | Silvio Napoli at Schindler India memo due |
-| 10 | Leading Execution From the Middle | Carnival Cruise Lines memo due |
-| 11 | Executing Strategy in Volatile Markets | &nbsp; |
-| 12 | Competing on Agility |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses#
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+What Strategy Execution Is (and Isn't)
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Priorities memo due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Strategy for Execution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Goals 2.0
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Simple Rules
+{{< tdclose >}}
+{{< tdopen >}}
+Canadian Compression Corporation memo due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Simple Rules in Action
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Execution Culture
+{{< tdclose >}}
+{{< tdopen >}}
+Henkel memo due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Building an Execution Culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Execution Loop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Execution Loop (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Silvio Napoli at Schindler India memo due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Leading Execution From the Middle
+{{< tdclose >}}
+{{< tdopen >}}
+Carnival Cruise Lines memo due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Executing Strategy in Volatile Markets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Competing on Agility
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
